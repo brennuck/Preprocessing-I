@@ -194,6 +194,7 @@ button {
 }
 .middle {
   display: flex;
+  margin-bottom: 30px;
 }
 .middle .leftmiddle {
   width: 40%;
@@ -210,4 +211,10 @@ ul li {
 }
 .reading {
   margin: 0;
+}
+.column {
+  float: left;
+  width: 25%;
+  border-bottom: 1px solid grey;
+  padding: 10px;
 }
