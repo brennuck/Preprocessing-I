@@ -139,6 +139,7 @@ nav {
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
+  margin-top: 20px;
 }
 nav a {
   text-decoration: none;
@@ -167,7 +168,7 @@ h1 {
 h4 {
   font-size: 20px;
   margin: 5px 0 20px 20px;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid grey;
   padding-bottom: 20px;
   width: 95%;
 }
